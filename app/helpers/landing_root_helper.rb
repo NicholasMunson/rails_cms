@@ -1,0 +1,2 @@
+module LandingRootHelper
+end
